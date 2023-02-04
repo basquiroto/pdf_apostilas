@@ -3,7 +3,7 @@
 Este repositório visa concentrar meus materiais criados para diferentes cursos e palestras. Material abrange desde apostilas de geoprocessamento à slides das aulas de pedologia.
 
 | Arquivo | Descrição |
-|-----:|-----------|
+|:-----|-----------|
 |APOSTILA GEOP2020 QGIS ARCGIS Comandos.pdf| Apostila com comandos fundamentais de QGIS e ArcGIS do curso de geoprocessamento.|
 |APOSTILA GEOP2020 QGIS ARCGIS.pdf| Apostila com conceitos de geoprocessamento e as atividades práticas do curso de geoprocessamento.|
 |B2E - ArcGIS Mapas de Localização.pdf| Tutorial do Blog 2 Engenheiros em PDF mostrando como criar um mapa de localização no ArcGIS.|
