@@ -12,5 +12,6 @@ Este repositório visa concentrar meus materiais criados para diferentes cursos 
 |B2E Resumo C2 Fund Hydrology.pdf| Resumo do capítulo 2 do livro Fundamentals of Hydrology do Tim Davie. Montado em LaTeX.|
 |B2E SLUG TEST - Resumo.pdf| Resumo de artigo sobre o método Slug Test para definição de condutividade hidráulica. Montado em LaTeX.|
 |Geoprocessamento e Engenharia Ambiental.pdf| Slides da apresentação sobre o uso de geoprocessamento na engenharia ambiental.|
+|ebook_2engenheiros_v0_2016.pdf| Ebook com história e textos do B2E. Versão prévia somente com textos de 2016. |
 |infog_converter_para_shapefile.pdf| Infográfico mostrando formas de converter arquivos para shapefile.|
 |plot_R_licenciamento.pdf| Tutorial mostrando como usar o R para criar gráficos. Exemplo usando dados de licenciamento ambiental.|
